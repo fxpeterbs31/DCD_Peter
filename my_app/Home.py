@@ -3,8 +3,8 @@ import streamlit as st
 from PIL import Image
 
 def main():
-    img = Image.open('D:/Algoritma/DCD/DCD/spotify_logo.png')
-    st.sidebar.image(img)
+#     img = Image.open('D:/Algoritma/DCD/DCD/spotify_logo.png')
+#     st.sidebar.image(img)
 
     st.markdown('# Spotify Recommender System Using Cosine Distance')
     st.markdown("## Overview :house:")
