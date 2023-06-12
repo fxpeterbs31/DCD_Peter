@@ -1,0 +1,11 @@
+streamlit
+PIL
+pandas
+numpy
+plotly
+matplotlib
+sklearn
+random
+spotipy
+collections
+difflib
